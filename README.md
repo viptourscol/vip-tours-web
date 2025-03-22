@@ -161,7 +161,7 @@
 
 <footer class="footer" id="contacto">
     <div class="container">
-        <p><i class="fa-solid fa-envelope"></i> viptours@gmail.com | <i class="fa-solid fa-phone"></i> 300 123 4567 | Medellín, Colombia</p>
+        <p><i class="fa-solid fa-envelope"></i> toursvip0@gmail.com | <i class="fa-solid fa-phone"></i> 320 593 7632 | Medellín, Colombia</p>
         <p>© 2025 VIP Tours. Todos los derechos reservados.</p>
     </div>
 </footer>
